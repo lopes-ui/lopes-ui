@@ -1,5 +1,11 @@
 # @lopes-ui/react
 
+## 2.2.1
+
+### Patch Changes
+
+- Fix build issues
+
 ## 2.2.0
 
 ### Minor Changes
