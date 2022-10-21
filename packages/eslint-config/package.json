@@ -1,5 +1,6 @@
 {
   "name": "@lopes-ui/eslint-config",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "main": "index.js",
@@ -8,3 +9,4 @@
     "eslint": "8.24.0"
   }
 }
+
