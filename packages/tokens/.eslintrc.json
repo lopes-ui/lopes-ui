@@ -1,0 +1,3 @@
+{
+  "extends": "@lopes-ui/eslint-config"
+}
